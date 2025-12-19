@@ -1,0 +1,7 @@
+[project]
+name = "cct-ca2-cryptography"
+version = "0.1.0"
+description = "A project demonstrating practical AES encrption and SHA hashing in Python."
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = []
